@@ -1,3 +1,5 @@
 # odin-recipes
 
-This is the Odin Recipes project. After I complete this project I will return to this README to detail what skills were involved in this project.
+This is the Odin Recipes project. In this project, skills such as creating html files, creating directories, inserting images and links.
+
+Additionally, this reinforced the git concepts introduced earlier and allowed for consistent use and practice of commands suchs as git add, git commit, and git push.
