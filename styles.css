@@ -5,3 +5,14 @@
     color: white;
     text-align: center;
 }
+
+.index-link {
+    background-color: aqua;
+    text-align: left;
+    font-size: 40px;
+    color:burlywood
+}
+
+li {
+    font-family: 'Courier New', Courier, monospace;
+}
