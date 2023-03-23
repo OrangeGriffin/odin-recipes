@@ -33,3 +33,16 @@ li {
 .description, p {
     font-family: papyrus, arial, sans-serif;
 }
+
+.ingredients-header {
+    font-weight: 900;
+    font-size: 50px;
+    background-color: fuchsia;
+    color:floralwhite
+}
+
+.ingredient-item {
+    background-color:aqua;
+    font-size: 20px;
+    color:lightslategray
+}
