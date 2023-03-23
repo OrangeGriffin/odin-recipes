@@ -41,8 +41,7 @@ li {
     color:floralwhite
 }
 
-.ingredient-item {
-    background-color:aqua;
-    font-size: 20px;
-    color:lightslategray
+ul li {
+    list-style-type: none;
+    color:blue
 }
